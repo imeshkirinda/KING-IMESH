@@ -30,7 +30,7 @@ global.doc6 = 'application/vnd.android.package-archive'
 
 //owner v card
 global.vcardowner = ['+94772229832'] // owner number
-global.ownername = "👑Imesh❯❯" // owner name
+global.ownername = "👑 KING IMESH❯❯" // owner name
 global.ytname = "" // yt chanel name
 global.socialm = "GitHub: prabhasha2006" // github or insta name
 global.location = "India, Mizoram, Aizawl" // location
@@ -49,9 +49,9 @@ global.welcom_msg = "true" // Welcome / Goodbye   [true/false]
 
 global.owner = ['+94772229832']
 global.ownertag = '+94772229832' //your tag number
-global.botname = 'KING╺ IMESH - 𝘉OT' //ur bot name
+global.botname = '👑 KING╺ IMESH - 𝘉OT' //ur bot name
 global.packname = "Bot Sticker" // sticker packname
-global.author = "KING╺ IMESH" // sticker author
+global.author = "👑 KING╺ IMESH" // sticker author
 global.dragonemoji = '🧩' // Menu emoji
 global.footer = '[ ◉ ʀᴇᴅ-ᴅʀᴀɢᴏɴ-ᴍᴅ ]' //
 
